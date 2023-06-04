@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Coursework
 
-This repository contains my coursework for the Data Structures and Algorithms course. 
+This repository contains my coursework for the Data Structures and Algorithms course in `Innopolis University`. 
 
 ## Course Overview
 
