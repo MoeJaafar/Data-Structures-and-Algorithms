@@ -31,7 +31,7 @@ To use these files, clone this repository with the following command:
 
 ```bash
 git clone https://github.com/MoeJaafar/Data-Structures-and-Algorithms.git
-
+```
 
 Open the files in your preferred development environment to view, edit, or run the code.
 
